@@ -1,8 +1,6 @@
 ### Hi there, I'm Omkar ✋
 
-## Innovator | Philomath | Pantomath
-
--  I'm currently working on: ReactJS, Smart Contracts on Ethereum
+-  I'm currently working on: ReactJS
 -  I’m currently learning: Arduino 
 -  Things I do apart from coding: Photography, Travelling 
 
